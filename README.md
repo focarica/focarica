@@ -1,5 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foca1&show_icons=true&theme=midnight-purple&hide_border=True)                
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foca1&layout=compact&theme=midnight-purple&hide_border=True)](https://github.com/Foca1/github-readme-stats)
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Foca1&show_icons=true&theme=midnight
+                           purple&hide_border=Trua&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foca1&layout=compact&theme=midnight-purple&hide_border=True"/>
+</div>
