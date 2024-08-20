@@ -3,7 +3,7 @@
   <img align="center"
        src="https://readme-stats.clckblog.space/api?username=focarica&show_icons=true&theme=midnight-purple&hide_border=True&include_all_commits=true&count_private=true">
   <img align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=focarica&theme=midnight-purple&hide_border=True&layout=compact&count_private=true"/>
-  <br></br>
+   
   <h2>Habilidades</h2>
 
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Pyton" />
