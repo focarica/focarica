@@ -8,8 +8,8 @@
 
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Pyton" />
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
+ <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+ <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3" />
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
 
