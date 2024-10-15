@@ -1,8 +1,8 @@
 <div>
     <div align="center">
         <a href="https://github.com/focarica">
-        <img src="https://github-readme-stats.vercel.app/api?username=focarica&show_icons=true&theme=vision-friendly-dark&hide_border=True&include_all_commits=true&count_private=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=focarica&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=True&include_all_commits=true&count_private=true"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=focarica&show_icons=true&theme=midnight-purple&hide_border=True&include_all_commits=true&count_private=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=focarica&layout=compact&langs_count=8&theme=midnight-purple&hide_border=True&include_all_commits=true&count_private=true"/>
     </div>
      
 <h2 style="text-decoration: none;">Habilidades</h2>
