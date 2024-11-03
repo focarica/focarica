@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=e3ee15&lines=Olá,+me+chamo+Artur+Vincius.;Seja+Bem-Vindo!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?vCenter=true&color=e3ee15&lines=Olá,+me+chamo+Artur+Vincius.;Seja+Bem-Vindo!!+:%29)](https://git.io/typing-svg)
 ## Sobre mim
 Atualmente estudante na Universidade Federal do Piaui (UFPI) e focado em aprender cada vez mais sobre o mundo da tecnologia no geral.
 
