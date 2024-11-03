@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+me+chamo+Artur+Vincius.;Seja+Bem-Vindo!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=e3ee15&lines=Olá,+me+chamo+Artur+Vincius.;Seja+Bem-Vindo!!+:%29)](https://git.io/typing-svg)
 
 <a href="https://github.com/focarica">
   <img height=180 align="center" src="https://github-readme-stats-ten-gamma-78.vercel.app/api?username=focarica&show_icons=true&theme=highcontrast&hide_border=True&include_all_commits=true&count_private=true">
