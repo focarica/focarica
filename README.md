@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?vCenter=true&color=e3ee15&lines=Olá,+me+chamo+Artur+Vincius.;Seja+Bem-Vindo!!+:%29)](https://git.io/typing-svg)
 ## Sobre mim
-Atualmente estudante na Universidade Federal do Piaui (UFPI) e focado em aprender cada vez mais sobre o mundo da tecnologia no geral.
+Atualmente estudante na Universidade Federal do Piaui e focado em aprender cada vez mais sobre o mundo da tecnologia no geral.
 
 Não possuo um foco especifico porem sou um entusiasta de **Backend** e tecnologias de **Infraestrutura em Nuvem**, com foco secundario na area de **Dados**.
 
