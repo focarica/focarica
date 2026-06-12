@@ -2,7 +2,7 @@
 ## Sobre mim
 Atualmente estudante na Universidade Federal do Piaui e focado em aprender cada vez mais sobre o mundo da tecnologia no geral.
 
-Foco principalmente em **Backend** e tecnologias de **Infraestrutura em Nuvem**.
+Foco principalmente em **Backend** e tecnologias **Aplicadas a IA**.
 
 
 ## Stats
