@@ -6,10 +6,12 @@ Foco principalmente em **Backend** e tecnologias **Aplicadas a IA**.
 
 
 ## Stats
+[![wakatime](https://wakatime.com/badge/user/e9e4bad6-f17c-455e-85df-6f55cfbe8ba6.svg)](https://wakatime.com/@e9e4bad6-f17c-455e-85df-6f55cfbe8ba6)
+
 <a href="https://github.com/focarica">
-<img height="180" align="center" src="https://github-readme-stats-ten-gamma-78.vercel.app/api?username=focarica&show_icons=true&theme=highcontrast&hide_border=True&include_all_commits=true&count_private=true&v=1">
+  <img height="180" align="center" src="https://github-readme-stats-ten-gamma-78.vercel.app/api?username=focarica&show_icons=true&theme=highcontrast&hide_border=True&include_all_commits=true&count_private=true&v=1">
 </a>
 
 <a href="https://github.com/focarica">
-<img height="180" align="center" src="https://github-readme-stats-ten-gamma-78.vercel.app/api/top-langs/?username=focarica&theme=highcontrast&hide_border=True&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5"/>
+  <img height="180" align="center" src="https://github-readme-stats-ten-gamma-78.vercel.app/api/top-langs/?username=focarica&theme=highcontrast&hide_border=True&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5"/>
 </a>
